@@ -1,2 +1,1 @@
-# ML-Editor
-### A Repo to follow along with 'Building Machine Learning Powered Applications'
+# A Repository to document my progress in Deep Learning
